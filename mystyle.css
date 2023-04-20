@@ -1,0 +1,81 @@
+.common{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.header{
+    height: 80px;
+
+}
+/* 
+.mainbody{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:black;
+} */
+
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    color: rgb(88,88,88);
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav{
+    background-color: whitesmoke;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a:hover{
+    background-color: whitesmoke;
+}
+
+nav a{
+    float: left;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer{
+    background-color: whitesmoke;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: left;
+    padding-left: 900px ;
+}
+ul{
+    list-style-position: inside;
+    text-align: left;
+    padding-left: 40px;
+}
+
+.center{
+    text-align: center;
+}
+
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
